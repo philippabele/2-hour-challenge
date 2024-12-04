@@ -27,3 +27,65 @@
 [Glossary](12_glossary.md)
 
 # Risks and Technical Debts
+
+## TDR [T]echnical [D]ept [R]ecords
+
+Workflow of TDR:: Identified > Analyzed > Approved > In Progress > Resolved > Closed
+
+| state / field     	| Identified 	| Analyzed 	| Approved 	| In Progress 	| Resolved 	| Closed 	|
+|-------------------	|------------	|----------	|----------	|-------------	|----------	|--------	|
+| Titel                	|        x    	|          	|          	|             	|          	|        	|
+| Author            	|        x    	|          	|          	|             	|          	|        	|
+| Version           	|        x   	|          	|          	|             	|          	|        	|
+| Date              	|        x    	|          	|          	|             	|          	|        	|
+| State               	|        x   	|      x    	|      x    	|      x      	|       x   	|      x  	|
+| Relations         	|            	|          	|          	|             	|          	|        	|
+| Summary           	|        x    	|          	|          	|             	|          	|        	|
+| Context           	|        x    	|          	|          	|             	|          	|        	|
+| Technical impact  	|            	|      x   	|          	|             	|          	|        	|
+| Business impact   	|            	|      x    	|          	|             	|          	|        	|
+| Symptoms          	|            	|      x    	|          	|             	|          	|        	|
+| Severity          	|            	|      x    	|          	|             	|          	|        	|
+| Potential risks   	|            	|      x   	|          	|             	|          	|        	|
+| Proposed solution 	|            	|          	|        x  	|             	|          	|        	|
+| Cost of delay     	|            	|          	|       x   	|             	|          	|        	|
+| Effort to resolve 	|            	|          	|          	|       x      	|          	|        	|
+| Dependencies      	|            	|          	|          	|       x      	|          	|        	|
+
+## TDR 001: Replace-me-with-Name-of-Technical-Debt-Record-001
+
+state
+
+Titel:
+
+Author:
+
+Version:
+
+Date:
+
+State:
+
+Relations:
+
+Summary:
+
+Context:
+
+Technical impact:
+
+Business impact:
+
+Symptoms:
+
+Severity:
+
+Potential risks:
+
+Proposed solution:
+
+Cost of delay:
+
+Effort to resolve:
+
+Dependencies:
